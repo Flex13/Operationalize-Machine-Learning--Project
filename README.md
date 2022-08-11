@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Flex13](https://circleci.com/gh/Flex13/Operationalize-Machine-Learning--Project.svg?style=svg)](https://app.circleci.com/pipelines/github/Flex13/Operationalize-Machine-Learning--Project)
 
 
 ## A summary of the project
